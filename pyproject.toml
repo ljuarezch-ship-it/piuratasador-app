@@ -1,0 +1,7 @@
+[project]
+name = "piuratasador-ai"
+version = "1.0.0"
+dependencies = [
+    "flet",
+    "requests"
+]
